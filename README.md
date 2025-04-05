@@ -44,6 +44,6 @@ Se utiliza un **array predefinido de usuarios** cargado desde el archivo `slice.
 1. Clonar el repositorio  
 2. Instalar dependencias:
 
-   ```bash
-  npm install
-  npm run dev
+```bash
+npm install
+npm run dev
